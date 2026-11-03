@@ -1,0 +1,8 @@
+# vramfit has no runtime dependencies.
+#
+# It is pure Python standard library by design: you should be able to drop it
+# onto a fresh machine, an air-gapped box, or a CI runner and get an answer in
+# under a second without installing a scientific stack.
+#
+# Optional, only for development and testing:
+#   pip install pytest   # richer test output (unittest works too)
